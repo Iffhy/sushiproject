@@ -1,2 +1,2 @@
 # sushiproject
-https://iffhy.github.io/sushiproject/
+https://Iffhy.github.io/sushiproject/
